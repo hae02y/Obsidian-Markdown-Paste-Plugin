@@ -1,0 +1,11 @@
+{
+  "id": "markdown-image-paste",
+  "name": "Replace Image Paste Markdown Format",
+  "version": "0.1.0",
+  "minAppVersion": "0.1.0",
+  "description": "Paste images as clean, standard Markdown links — no more obsidian embeds.",
+  "author": "hae02y",
+  "authorUrl": "https://github.com/hae02y",
+  "main": "main.js",
+  "isDesktopOnly": true
+}
